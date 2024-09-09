@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2024-09-05T18:51:53.876Z"
+    },
+    {
+      "id": "2",
+      "description": "Ifood",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2024-09-05T18:20:53.876Z"
+    },
+    {
+      "id": "3",
+      "description": "Curso de programação",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1050,
+      "createdAt": "2024-09-05T12:21:50.876Z"
+    },
+    {
+      "id": "afcb",
+      "description": "Caderno",
+      "category": "Material",
+      "price": 30,
+      "type": "outcome",
+      "createdAt": "2024-09-06T22:35:21.417Z"
+    },
+    {
+      "id": "30f2",
+      "description": "Jogo online",
+      "category": "Entretenimento",
+      "price": 150,
+      "type": "outcome",
+      "createdAt": "2024-09-08T03:13:11.549Z"
+    }
+  ]
+}
